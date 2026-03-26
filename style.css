@@ -1,38 +1,31 @@
 body {
+    background-color: lavenderblush;
     font-family: Arial;
 }
 
 form {
-    width: 320px;
-    padding: 20px;
-    border: 1px solid gray;
-    margin-bottom: 20px;
+    background-color: white;
+    border: 1px solid pink;
 }
 
 label {
-    display: block;
-    margin-top: 10px;
+    color: hotpink;
 }
 
 input {
-    width: 100%;
-    padding: 8px;
-    margin-top: 5px;
+    border: 1px solid pink;
 }
 
 button {
-    padding: 10px;
-    margin-top: 10px;
-    background-color: blue;
+    background-color: pink;
     color: white;
-    border: none;
 }
 
 button:hover {
-    background-color: darkblue;
+    background-color: deeppink;
 }
 
 .preview {
-    padding: 15px;
-    border: 1px solid black;
+    background-color: white;
+    border: 1px solid pink;
 }
